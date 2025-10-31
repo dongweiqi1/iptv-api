@@ -120,25 +120,52 @@ HBO_HITS
 台视综合
 華視新聞台
 寰宇新聞台
+寰宇新聞台灣台
 靖天資訊台
 靖天育樂台
 龍華電影台
-三立台湾台
+三立新聞iNEWS
 三立综合台
 好萊塢電影台
 华丽翡翠台
 amc電影台
 時尚運動X
 民視旅遊台
+TVBS新聞
 TVBS綜藝台
 中视HD
 中視
+中視菁采台
 中视新闻
+中視新聞
 中视经典
 華視
+華視新聞
 民視
 民视HD
 民视新闻台
+民視
+民視綜藝台
+民視影劇台
+DW德國之聲
+經典電影台
+滾動力rollor
+Love Nature
+采昌影劇台
+靖天綜合台
+靖天映畫
+靖天育樂台
+影迷數位電影台
+History 歷史頻道
+Lifetime 娛樂頻道
+CinemaWorld
+amc電影台
+Nice TV 靖天歡樂台
+靖天資訊台
+TVBS歡樂台
+韓國娛樂台
+半島國際新聞台
+MTV Live HD 音樂頻道
 TVBS
 HBO Signature
 HBO Family
@@ -171,6 +198,7 @@ CNBC World
 Fox News Channel (720p)
 Sky News
 NBC News NOW
+NHK WORLD-JAPAN
 ENT | Sony Entertainment HD
 ENT | SONY SAB HD
 National Geographic East
