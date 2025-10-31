@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-31 10:38:36,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-10-31 19:14:51,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -189,6 +189,7 @@ CHC影迷电影,https://shyd.695847.xyz/cms001/ch00000090990000001581/index.m3u8
 CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=2025103018004849cfb1d2af42479bac98652ba5ffa647&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20251030180048&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=106.13.250.90&SecurityKey=20251030180048&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=696c7a146a6c375ee8b761526db909ec&ddCalcu=c6e9e9630c2970bad164265a166c73b785ee
 CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=20251031060037dabefdb3cda3485298e7fd71f57bf476&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20251031060037&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=106.13.250.88&SecurityKey=20251031060037&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=337166235ad605d9f9403eeb4e3d4337&ddCalcu=7333e373412d6036e243b5eaed3600459df9
 CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=202510310800577932a730221d47fdb323b9684f71e230&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20251031080057&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=106.13.250.88&SecurityKey=20251031080057&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=96312cc1e594cccc18ebb1e2d06ee8f1&ddCalcu=19f6e833e12e206c0cd12ee519b4bcec8c1c
+CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=202510311800491b00cdf7a7e74f34bd23b90de7d79991&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20251031180049&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=106.13.250.83&SecurityKey=20251031180049&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=34e265c20065bf22c820ffe504465790&ddCalcu=0394e7e3522660454c0250e0f6f50b2f82c2
 
 📡卫视频道,#genre#
 广东卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000520
@@ -562,6 +563,11 @@ TVBS HD,https://smart.dxjc.pp.ua/smart.php?id=tvbs&token=tmxk
 鏡電視新聞台,https://4g.vickdong.dpdns.org/?id=268
 非凡新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv010
 非凡新闻,https://smart.dxjc.pp.ua/smart.php?id=feifannews_twn&token=tmxk
+History 歷史頻道,https://4g.vickdong.dpdns.org/?id=214
+Lifetime 娛樂頻道,https://4g.vickdong.dpdns.org/?id=217
+HITS頻道,https://4g.vickdong.dpdns.org/?id=186
+LUXE TV Channel,https://4g.vickdong.dpdns.org/?id=175
+ARIRANG阿里郎頻道,https://4g.vickdong.dpdns.org/?id=189
 AXN Taiwan,https://smart.dxjc.pp.ua/smart.php?id=axn_twn&token=tmxk
 HBO_HD,https://smart.dxjc.pp.ua/smart.php?id=hbohd_twn&token=tmxk
 HBO_HITS,https://smart.dxjc.pp.ua/smart.php?id=hbohit_twn&token=tmxk
@@ -619,6 +625,7 @@ Love Nature,https://dbrb49pjoymg4.cloudfront.net/10001/99991398/hls/playlist.m3u
 Love Nature,https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb.m3u8
 Love Nature,https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p-cc/index.m3u8
 Love Nature,https://4g.vickdong.dpdns.org/?id=139
+Love Nature,https://dbrb49pjoymg4.cloudfront.net/10001/99991398/hls/playlist.m3u8?ads.xumo_channelId=99991398&ads._fw_ifa_type=&ads._fw_did=601f988c-2844-4349-8fa1-b85d8cb85b03&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=LoveNature&ads.csid=xumo_web_LoveNature_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=1852&ads.xumo_contentName=LoveNature&ads.xumo_providerId=1852&ads.xumo_providerName=LoveNature&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991398&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 采昌影劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv049
 采昌影劇台,https://4g.vickdong.dpdns.org/?id=25
 靖天綜合台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv046
@@ -626,8 +633,6 @@ Love Nature,https://4g.vickdong.dpdns.org/?id=139
 靖天映畫,https://4g.vickdong.dpdns.org/?id=42
 影迷數位電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv011
 影迷數位電影台,https://4g.vickdong.dpdns.org/?id=40
-History 歷史頻道,https://4g.vickdong.dpdns.org/?id=214
-Lifetime 娛樂頻道,https://4g.vickdong.dpdns.org/?id=217
 CinemaWorld,https://4g.vickdong.dpdns.org/?id=225
 Nice TV 靖天歡樂台,https://4g.vickdong.dpdns.org/?id=119
 TVBS歡樂台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv068
@@ -674,6 +679,7 @@ LiveNOW from FOX,https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
 LiveNOW from FOX,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
 LiveNOW from FOX,https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6377ea0e13bb6b1757e14695.m3u8
 LiveNOW from FOX,https://jmp2.uk/stvp-USBA300024TN
+LiveNOW from FOX,https://dbrb49pjoymg4.cloudfront.net/10001/99991635/hls/playlist.m3u8?ads.xumo_channelId=99991635&ads._fw_ifa_type=&ads._fw_did=cd625db2-2e44-484d-b366-ed22bede0335&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=FoxNewsNow&ads.csid=xumo_web_FoxNewsNow_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=2662&ads.xumo_contentName=FoxNewsNow&ads.xumo_providerId=2662&ads.xumo_providerName=FoxNewsNow&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991635&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 BBC News,https://jmp2.uk/US4000033L
 BBC News,https://jmp2.uk/sam-US4000033L.m3u8
 BBC News,https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8
@@ -681,6 +687,7 @@ BBC News,https://ott.udptv.xyz/stream/astro/bbcnews/master.m3u8?u=cocked&p=dd0ab
 BBC News,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298&ads.channelId=99951298&ads.csid=xumo_web_AMCBBCNews_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_ifa_type=&ads._fw_did=c85e8eef-87c0-4339-a248-aa00a2339754&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4023&ads.xumo_contentName=AMCBBCNews&ads.xumo_providerId=4023&ads.xumo_providerName=AMCBBCNews&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 BBC News,https://jmp2.uk/stvp-US4000033L
 BBC News,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+BBC News,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298&ads.channelId=99951298&ads.csid=xumo_web_AMCBBCNews_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_ifa_type=&ads._fw_did=f1d76897-b04a-41fc-b420-d00318c859ba&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4023&ads.xumo_contentName=AMCBBCNews&ads.xumo_providerId=4023&ads.xumo_providerName=AMCBBCNews&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 Bloomberg TV,https://jmp2.uk/INBA5100021WP
 Bloomberg TV,https://jmp2.uk/sam-INBA5100021WP.m3u8
 Bloomberg TV,https://ott.udptv.xyz/stream/astro/bloombergtv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
@@ -759,6 +766,7 @@ Discovery Animal Planet,https://hilay.tv/l/animalplanet
 CNN Originals,https://jmp2.uk/plu-66e0b4536ad04d0008fff4b2.m3u8
 CNN Originals,https://dbrb49pjoymg4.cloudfront.net/10001/99951387/hls/playlist.m3u8?ads.xumo_channelId=99951387&ads._fw_ifa_type=&ads._fw_did=32a19498-5d96-431f-9343-107088728e48&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=WBDCNNOriginals&ads.csid=xumo_web_WBDCNNOriginals_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4194&ads.xumo_contentName=WBDCNNOriginals&ads.xumo_providerId=4194&ads.xumo_providerName=WBDCNNOriginals&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951387&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 CNN Originals,https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66ad6025cb5d3b7fb5011c2d.m3u8
+CNN Originals,https://dbrb49pjoymg4.cloudfront.net/10001/99951387/hls/playlist.m3u8?ads.xumo_channelId=99951387&ads._fw_ifa_type=&ads._fw_did=f37ba54b-d037-4d09-b7e1-0ed663ef5a7e&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=WBDCNNOriginals&ads.csid=xumo_web_WBDCNNOriginals_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4194&ads.xumo_contentName=WBDCNNOriginals&ads.xumo_providerId=4194&ads.xumo_providerName=WBDCNNOriginals&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951387&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 Red Bull TV,https://jmp2.uk/ATBD1500003ES
 Red Bull TV,https://jmp2.uk/DEBC2300001EU
 Red Bull TV,https://jmp2.uk/GBBD2300003IK
@@ -773,6 +781,7 @@ NBA TV,https://a1xs.vip/40000031
 NBA TV,https://smart.dxjc.pp.ua/smart.php?id=Nba&token=tmxk
 The NBA Channel,https://jmp2.uk/plu-6792c30abc03978b9b8bb832.m3u8
 The NBA Channel,https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?ads.xumo_channelId=99951383&ads._fw_ifa_type=&ads._fw_did=d4654c4b-f72d-4bac-bec4-c356a2ec6cfa&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=NBAFASTChannel&ads.csid=xumo_web_NBAFASTChannel_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4185&ads.xumo_contentName=NBAFASTChannel&ads.xumo_providerId=4185&ads.xumo_providerName=NBAFASTChannel&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951383&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+The NBA Channel,https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?ads.xumo_channelId=99951383&ads._fw_ifa_type=&ads._fw_did=7c21bd75-4327-45db-b273-ab82b77d5f9c&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=NBAFASTChannel&ads.csid=xumo_web_NBAFASTChannel_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4185&ads.xumo_contentName=NBAFASTChannel&ads.xumo_providerId=4185&ads.xumo_providerName=NBAFASTChannel&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951383&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 Big Ten Network,https://a1xs.vip/40000047
 Fight Network,https://world-proxifier.xyz/daddylive/p/CU6DOLJGMQNTKMJFEQ3TEEIYDEKAOBIH/index.m3u8
 Fight Network,https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8
@@ -793,6 +802,7 @@ GLORY Kickboxing,https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-63f914bffe2c3d32e
 GLORY Kickboxing,https://jmp2.uk/plex-643054b1fc3be59477853717-63f914bffe2c3d32e1a7929f.m3u8
 GLORY Kickboxing,https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-63f914bffe2c3d32e1a7929f.m3u8
 GLORY Kickboxing,https://jmp2.uk/plex-6430aa45fc3be5947780904e-63f914bffe2c3d32e1a7929f.m3u8
+GLORY Kickboxing,https://dbrb49pjoymg4.cloudfront.net/10001/99991278/hls/playlist.m3u8?ads.xumo_channelId=99991278&ads._fw_ifa_type=&ads._fw_did=aeded975-dfd5-44ca-87be-18dc43484c91&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=Glory&ads.csid=xumo_web_Glory_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=203&ads.xumo_contentName=Glory&ads.xumo_providerId=203&ads.xumo_providerName=Glory&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991278&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 TNA Wrestling Channel,https://amg00966-amg00966c1-distrotv-us-7706.playouts.now.amagi.tv/playlist/amg00966-anthem-tnawrestling-distrotvus/playlist.m3u8
 TNA Wrestling Channel,https://live-content.xumo.com/2073/content/XM0U8ZQM8JTJ1N/22270264/master.m3u8
 TNA Wrestling Channel,https://jmp2.uk/rok-6d8659091f745b8b864f438f06c56fae.m3u8
@@ -801,11 +811,13 @@ TNA Wrestling Channel,https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-606605549dbf
 TNA Wrestling Channel,https://jmp2.uk/plex-643054b1fc3be59477853717-606605549dbfca002d2ae873.m3u8
 TNA Wrestling Channel,https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-606605549dbfca002d2ae873.m3u8
 TNA Wrestling Channel,https://jmp2.uk/plex-6430aa45fc3be5947780904e-606605549dbfca002d2ae873.m3u8
+TNA Wrestling Channel,https://live-content.xumo.com/2073/content/XM0T5MDDE3V2PE/25095871/master.m3u8
 Swerve Combat,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/swerve-combat/playlist.m3u8
 Swerve Combat,https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696&ads._fw_ifa_type=&ads._fw_did=579276be-8cd7-4db7-af2b-6c431943edd1&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=SwerveTV&ads.csid=xumo_web_SwerveTV_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3510&ads.xumo_contentName=SwerveTV&ads.xumo_providerId=3510&ads.xumo_providerName=SwerveTV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991696&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 Swerve Combat,https://jmp2.uk/rok-8c48bcf59acd57779977b83a41fac919.m3u8
 Swerve Combat,https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-61f04d2bb01a6e8df3f72902.m3u8
 Swerve Combat,https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-61f04d2bb01a6e8df3f72902.m3u8
+Swerve Combat,https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696&ads._fw_ifa_type=&ads._fw_did=8d963c77-3e88-4fab-b981-4f67aca0f21a&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=SwerveTV&ads.csid=xumo_web_SwerveTV_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3510&ads.xumo_contentName=SwerveTV&ads.xumo_providerId=3510&ads.xumo_providerName=SwerveTV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991696&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 UFC,https://jmp2.uk/CA2900012S9
 UFC,https://jmp2.uk/US2900017P2
 UFC,https://jmp2.uk/sam-CA2900012S9.m3u8
@@ -851,11 +863,13 @@ Bad Girls Club,https://jmp2.uk/US1800008PZ
 Bad Girls Club,https://jmp2.uk/plu-654932fa4d6d8f00084c4723.m3u8
 Bad Girls Club,https://d4whmvwm0rdvi.cloudfront.net/10007/99951467/hls/master.m3u8?ads.xumo_channelId=99951467&ads.asnw=535279&ads.afid=440668005&ads.sfid=23858505&ads.csid=xumo_web_versantbadgirlsclub_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=bec8fd41-d936-4ebd-94e1-0ba5fd708238&ads._fw_vcid2=512116:bec8fd41-d936-4ebd-94e1-0ba5fd708238&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=xumoplay&ads.xumo_contentId=4301&ads.xumo_contentName=VersantBadGirlsClub&ads.xumo_providerId=4301&ads.xumo_providerName=VersantBadGirlsClub&ads.channelId=99951467&ads._fw_ifa_type=
 Bad Girls Club,https://jmp2.uk/stvp-US1800008PZ
+Bad Girls Club,https://d4whmvwm0rdvi.cloudfront.net/10007/99951467/hls/master.m3u8?ads.xumo_channelId=99951467&ads.asnw=535279&ads.afid=440668005&ads.sfid=23858505&ads.csid=xumo_web_versantbadgirlsclub_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=9fd46b9f-2049-45e7-9a1b-c16b77386412&ads._fw_vcid2=512116:9fd46b9f-2049-45e7-9a1b-c16b77386412&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=xumoplay&ads.xumo_contentId=4301&ads.xumo_contentName=VersantBadGirlsClub&ads.xumo_providerId=4301&ads.xumo_providerName=VersantBadGirlsClub&ads.channelId=99951467&ads._fw_ifa_type=
 Real Housewives Vault,https://jmp2.uk/US18000059V
 Real Housewives Vault,https://jmp2.uk/plu-6549316d2c1d330008631496.m3u8
 Real Housewives Vault,https://d4whmvwm0rdvi.cloudfront.net/10007/99951243/hls/master.m3u8?ads.xumo_channelId=99951243&ads.asnw=169843&ads.afid=380684197&ads.sfid=19208056&ads.csid=xumo_web_NBCURealHousewivesVault_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=cf420b65-a4f9-4255-a0ac-d97d7857d510&ads._fw_vcid2=512116:cf420b65-a4f9-4255-a0ac-d97d7857d510&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3936&ads.xumo_contentName=NBCURealHousewivesVault&ads.xumo_providerId=3936&ads.xumo_providerName=NBCURealHousewivesVault&ads.channelId=99951243&ads._fw_ifa_type=
 Real Housewives Vault,https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-645f840b361156ab4214e28d.m3u8
 Real Housewives Vault,https://jmp2.uk/stvp-US18000059V
+Real Housewives Vault,https://d4whmvwm0rdvi.cloudfront.net/10007/99951243/hls/master.m3u8?ads.xumo_channelId=99951243&ads.asnw=169843&ads.afid=380684197&ads.sfid=19208056&ads.csid=xumo_web_NBCURealHousewivesVault_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=c61bbf28-c7ce-4305-87a6-977a9aa9c2f8&ads._fw_vcid2=512116:c61bbf28-c7ce-4305-87a6-977a9aa9c2f8&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3936&ads.xumo_contentName=NBCURealHousewivesVault&ads.xumo_providerId=3936&ads.xumo_providerName=NBCURealHousewivesVault&ads.channelId=99951243&ads._fw_ifa_type=
 Outdoor Channel,https://ott.udptv.xyz/stream/udptvus/outdoorchannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 Outside TV,https://jmp2.uk/CAAJ2700030ON
 Outside TV,https://jmp2.uk/USAJ3504707A
@@ -963,6 +977,7 @@ HBO HD,https://smart.dxjc.pp.ua/smart.php?id=Hbo&token=tmxk
 Scares by Shudder,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951349/hls/playlist.m3u8?ads.xumo_channelId=99951349&ads.channelId=99951349&ads.csid=xumo_web_AMCScaresbyShudder_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_ifa_type=&ads._fw_did=89ed1dc5-5d6b-46f6-ac5e-e6ac0aeae197&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4104&ads.xumo_contentName=AMCScaresbyShudder&ads.xumo_providerId=4104&ads.xumo_providerName=AMCScaresbyShudder&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 Scares by Shudder,https://jmp2.uk/rok-349e0f0840cf21b888bff327b41a2413.m3u8
 Scares by Shudder,https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-650b38f490baad1963ad96f9.m3u8
+Scares by Shudder,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951349/hls/playlist.m3u8?ads.xumo_channelId=99951349&ads.channelId=99951349&ads.csid=xumo_web_AMCScaresbyShudder_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_ifa_type=&ads._fw_did=7d409dd1-74fa-4856-b975-4e3c79010987&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4104&ads.xumo_contentName=AMCScaresbyShudder&ads.xumo_providerId=4104&ads.xumo_providerName=AMCScaresbyShudder&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 Sony PIX HD,https://dish.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 Sony Movie Channel,https://hilay.tv/l/sonymoviech
 Cinemax,http://ott.udptv.net/stream/iptv/cinemax/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
@@ -973,6 +988,7 @@ Stories by AMC,https://jmp2.uk/plu-62f2ce24f328e00007e7f55a.m3u8
 Stories by AMC,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99991622/hls/playlist.m3u8?ads.xumo_channelId=99991622&ads.channelId=99991622&ads.csid=xumo_web_storiesbyamc_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_ifa_type=&ads._fw_did=432bf182-dbce-4501-ad4c-0a312fc4b32f&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=2656&ads.xumo_contentName=storiesbyamc&ads.xumo_providerId=2656&ads.xumo_providerName=storiesbyamc&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 Stories by AMC,https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba.m3u8
 Stories by AMC,https://jmp2.uk/stvp-USBD2500018X6
+Stories by AMC,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99991622/hls/playlist.m3u8?ads.xumo_channelId=99991622&ads.channelId=99991622&ads.csid=xumo_web_storiesbyamc_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_ifa_type=&ads._fw_did=de38c166-f5f3-422a-a80f-666117699eac&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=2656&ads.xumo_contentName=storiesbyamc&ads.xumo_providerId=2656&ads.xumo_providerName=storiesbyamc&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 Hallmark Movies & More,https://jmp2.uk/USBD270001633
 Hallmark Movies & More,https://jmp2.uk/sam-USBD270001633.m3u8
 Hallmark Movies & More,https://jmp2.uk/plu-628e685ba3811100070551a8.m3u8
@@ -980,11 +996,14 @@ Hallmark Movies & More,https://live-content.xumo.com/2777/content/XM0NR0TA2Q94YX
 Hallmark Movies & More,https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514.m3u8
 Hallmark Movies & More,https://jmp2.uk/stvp-USBD270001633
 Hallmark Movies & More,https://stitcher.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1489fe1a-8afc-11f0-a08f-d2161128e34e
+Hallmark Movies & More,https://live-content.xumo.com/2777/content/XM06GYYWFPG0KB/26990757/master.m3u8
 MovieSphere by Lionsgate,https://jmp2.uk/plu-645e7828e1979c00087b75b4.m3u8
 MovieSphere by Lionsgate,https://jmp2.uk/plu-64a3d96f060e830008af6745.m3u8
 MovieSphere by Lionsgate,https://dbrb49pjoymg4.cloudfront.net/10001/99951251/hls/playlist.m3u8?ads.xumo_channelId=99951251&ads._fw_ifa_type=&ads._fw_did=04d48f41-7602-4abd-b0aa-f68d3bc7ab56&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=LionsgateMovieSphere&ads.csid=xumo_web_LionsgateMovieSphere_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3955&ads.xumo_contentName=LionsgateMovieSphere&ads.xumo_providerId=3955&ads.xumo_providerName=LionsgateMovieSphere&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951251&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+MovieSphere by Lionsgate,https://dbrb49pjoymg4.cloudfront.net/10001/99951251/hls/playlist.m3u8?ads.xumo_channelId=99951251&ads._fw_ifa_type=&ads._fw_did=308e1b00-2f2b-4a77-9bb6-456eee4a6dda&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=LionsgateMovieSphere&ads.csid=xumo_web_LionsgateMovieSphere_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3955&ads.xumo_contentName=LionsgateMovieSphere&ads.xumo_providerId=3955&ads.xumo_providerName=LionsgateMovieSphere&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951251&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 Hi-Yah!,https://dbrb49pjoymg4.cloudfront.net/10001/99991302/hls/xumo_smart_tv.m3u8?ads.xumo_channelId=99991302&ads._fw_ifa_type=&ads._fw_did=1db2b2b5-2c04-4ddc-8022-fb66a63c5d97&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=hiyah&ads.csid=xumo_web_hiyah_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=236&ads.xumo_contentName=HiYah&ads.xumo_providerId=236&ads.xumo_providerName=HiYah&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991302&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 Hi-Yah!,https://d6b383jzkrtyn.cloudfront.net/hls/xumo_smart_tv.m3u8
+Hi-Yah!,https://dbrb49pjoymg4.cloudfront.net/10001/99991302/hls/xumo_smart_tv.m3u8?ads.xumo_channelId=99991302&ads._fw_ifa_type=&ads._fw_did=e45aef78-8290-4c4d-ac8c-312abe4bb042&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=hiyah&ads.csid=xumo_web_hiyah_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=236&ads.xumo_contentName=HiYah&ads.xumo_providerId=236&ads.xumo_providerName=HiYah&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991302&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 Shades of Black,https://jmp2.uk/USBC1000004G8
 Shades of Black,https://jmp2.uk/sam-USBC1000004G8.m3u8
 Shades of Black,https://jmp2.uk/plu-63920159db0dea0007dd9932.m3u8
@@ -992,6 +1011,7 @@ Shades of Black,https://dbrb49pjoymg4.cloudfront.net/10001/9995106/hls/playlist.
 Shades of Black,https://jmp2.uk/rok-34e2d8f442ab5fa3aed29436c2f8ed63.m3u8
 Shades of Black,https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-67a1421f114554261db9e459.m3u8
 Shades of Black,https://jmp2.uk/stvp-USBC1000004G8
+Shades of Black,https://dbrb49pjoymg4.cloudfront.net/10001/9995106/hls/playlist.m3u8?ads.xumo_channelId=9995106&ads._fw_ifa_type=&ads._fw_did=81cbd362-27a8-4a63-aaca-0298fac57537&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=FuseBeat&ads.csid=xumo_web_FuseBeat_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3508&ads.xumo_contentName=FuseBeat&ads.xumo_providerId=3508&ads.xumo_providerName=FuseBeat&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=9995106&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 Disney XD,https://world-proxifier.xyz/daddylive/p/C46CGKZXHV2QQALSMFXXSAQDA4/index.m3u8
 Disney XD,https://hilay.tv/l/disneyxd
 
