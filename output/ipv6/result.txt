@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-31 07:44:39,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-10-31 10:38:36,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -188,6 +188,7 @@ CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415
 CHC影迷电影,https://shyd.695847.xyz/cms001/ch00000090990000001581/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=2025103018004849cfb1d2af42479bac98652ba5ffa647&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20251030180048&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=106.13.250.90&SecurityKey=20251030180048&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=696c7a146a6c375ee8b761526db909ec&ddCalcu=c6e9e9630c2970bad164265a166c73b785ee
 CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=20251031060037dabefdb3cda3485298e7fd71f57bf476&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20251031060037&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=106.13.250.88&SecurityKey=20251031060037&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=337166235ad605d9f9403eeb4e3d4337&ddCalcu=7333e373412d6036e243b5eaed3600459df9
+CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=202510310800577932a730221d47fdb323b9684f71e230&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20251031080057&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=106.13.250.88&SecurityKey=20251031080057&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=96312cc1e594cccc18ebb1e2d06ee8f1&ddCalcu=19f6e833e12e206c0cd12ee519b4bcec8c1c
 
 📡卫视频道,#genre#
 广东卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000520
@@ -534,6 +535,7 @@ CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415
 TVBPLUS,https://smart.dxjc.pp.ua/smart.php?id=j2_twn&token=tmxk
 美亚电影,https://smart.dxjc.pp.ua/smart.php?id=meiyamovie_twn&token=tmxk
 TVBS精采台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv067
+TVBS精采台,https://4g.vickdong.dpdns.org/?id=227
 TVBS新聞台,https://usiptv.esnad.dpdns.org/?id=tvbsnews
 TVBS新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv072
 TVB翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
@@ -542,18 +544,22 @@ TVB翡翠台,https://smart.dxjc.pp.ua/smart.php?id=Jade_xue&token=tmxk
 TVB无线星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB翡翠台 1080P,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 民視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv13
+民視新聞台,https://4g.vickdong.dpdns.org/?id=31
 中天新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv009
+中天新聞台,https://4g.vickdong.dpdns.org/?id=30
 中天新闻,https://smart.dxjc.pp.ua/smart.php?id=ctinews&token=tmxk
 中天综合,https://smart.dxjc.pp.ua/smart.php?id=ctizhonghe&token=tmxk
 中天娱乐,https://smart.dxjc.pp.ua/smart.php?id=ctient&token=tmxk
 中天亚洲,https://smart.dxjc.pp.ua/smart.php?id=ctiasia_twn&token=tmxk
 東森新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv152
+東森新聞台,https://4g.vickdong.dpdns.org/?id=292
 东森新闻台,https://smart.dxjc.pp.ua/smart.php?id=ettvnews&token=tmxk
 东森综合台,https://smart.dxjc.pp.ua/smart.php?id=ettvzhonghe&token=tmxk
 东森电影台,https://smart.dxjc.pp.ua/smart.php?id=ettvmovie&token=tmxk
 东森电影,https://smart.dxjc.pp.ua/smart.php?id=ettvmovie&token=tmxk
 TVBS HD,https://smart.dxjc.pp.ua/smart.php?id=tvbs&token=tmxk
 鏡電視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv075
+鏡電視新聞台,https://4g.vickdong.dpdns.org/?id=268
 非凡新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv010
 非凡新闻,https://smart.dxjc.pp.ua/smart.php?id=feifannews_twn&token=tmxk
 AXN Taiwan,https://smart.dxjc.pp.ua/smart.php?id=axn_twn&token=tmxk
@@ -566,24 +572,70 @@ HBO_HITS,https://smart.dxjc.pp.ua/smart.php?id=hbohit_twn&token=tmxk
 台视综合,https://smart.dxjc.pp.ua/smart.php?id=ttvzhonghe&token=tmxk
 華視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv052
 寰宇新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn14
+寰宇新聞台,https://4g.vickdong.dpdns.org/?id=36
+寰宇新聞台灣台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv156
+寰宇新聞台灣台,https://4g.vickdong.dpdns.org/?id=280
 靖天資訊台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv065
+靖天資訊台,https://4g.vickdong.dpdns.org/?id=88
 靖天育樂台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv062
+靖天育樂台,https://4g.vickdong.dpdns.org/?id=83
 龍華電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn03
-三立台湾台,https://smart.dxjc.pp.ua/smart.php?id=sanlitaiwan&token=tmxk
+三立新聞iNEWS,https://4g.vickdong.dpdns.org/?id=229
 三立综合台,https://smart.dxjc.pp.ua/smart.php?id=sanlizhonghe&token=tmxk
 好萊塢電影台,https://smart.dxjc.pp.ua/smart.php?id=hollywoodmovies_twn&token=tmxk
 华丽翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 amc電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv017
+amc電影台,https://4g.vickdong.dpdns.org/?id=39
 時尚運動X,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv014
+時尚運動X,https://4g.vickdong.dpdns.org/?id=69
 民視旅遊台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv07
+民視旅遊台,https://4g.vickdong.dpdns.org/?id=61
+TVBS新聞,https://4g.vickdong.dpdns.org/?id=291
+TVBS綜藝台,https://4g.vickdong.dpdns.org/?id=284
 中視,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv040
+中視,https://4g.vickdong.dpdns.org/?id=4
+中視菁采台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv064
+中視菁采台,https://4g.vickdong.dpdns.org/?id=123
 中视新闻,https://smart.dxjc.pp.ua/smart.php?id=zhongshinews_twn&token=tmxk
+中視新聞,https://4g.vickdong.dpdns.org/?id=33
 中视经典,https://smart.dxjc.pp.ua/smart.php?id=zhongshi_twn&token=tmxk
 華視,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv041
+華視,https://4g.vickdong.dpdns.org/?id=6
+華視新聞,https://4g.vickdong.dpdns.org/?id=34
 民視,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv002
 民視,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv155
+民視,https://4g.vickdong.dpdns.org/?id=3
 民视新闻台,https://smart.dxjc.pp.ua/smart.php?id=ftvnew_taiwan&token=tmxk
+民視綜藝台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv004
+民視綜藝台,https://4g.vickdong.dpdns.org/?id=16
+民視影劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv09
+民視影劇台,https://4g.vickdong.dpdns.org/?id=24
+DW德國之聲,https://4g.vickdong.dpdns.org/?id=226
+經典電影台,https://4g.vickdong.dpdns.org/?id=201
+滾動力rollor,https://4g.vickdong.dpdns.org/?id=249
+Love Nature,https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8
+Love Nature,https://ott.udptv.xyz/stream/astro/lovenature/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+Love Nature,https://dbrb49pjoymg4.cloudfront.net/10001/99991398/hls/playlist.m3u8?ads.xumo_channelId=99991398&ads._fw_ifa_type=&ads._fw_did=051ff00a-8cf5-4a7a-bc41-ccb090910ae4&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=LoveNature&ads.csid=xumo_web_LoveNature_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=1852&ads.xumo_contentName=LoveNature&ads.xumo_providerId=1852&ads.xumo_providerName=LoveNature&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991398&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+Love Nature,https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb.m3u8
+Love Nature,https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p-cc/index.m3u8
+Love Nature,https://4g.vickdong.dpdns.org/?id=139
+采昌影劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv049
+采昌影劇台,https://4g.vickdong.dpdns.org/?id=25
+靖天綜合台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv046
+靖天綜合台,https://4g.vickdong.dpdns.org/?id=21
+靖天映畫,https://4g.vickdong.dpdns.org/?id=42
+影迷數位電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv011
+影迷數位電影台,https://4g.vickdong.dpdns.org/?id=40
+History 歷史頻道,https://4g.vickdong.dpdns.org/?id=214
+Lifetime 娛樂頻道,https://4g.vickdong.dpdns.org/?id=217
+CinemaWorld,https://4g.vickdong.dpdns.org/?id=225
+Nice TV 靖天歡樂台,https://4g.vickdong.dpdns.org/?id=119
+TVBS歡樂台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv068
+TVBS歡樂台,https://4g.vickdong.dpdns.org/?id=184
+半島國際新聞台,https://4g.vickdong.dpdns.org/?id=462
+MTV Live HD 音樂頻道,https://4g.vickdong.dpdns.org/?id=213
 TVBS,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv073
+TVBS,https://4g.vickdong.dpdns.org/?id=183
 HBO Signature,http://ott.udptv.net/stream/iptv/hbosignature/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 HBO Signature,https://smart.dxjc.pp.ua/smart.php?id=Hbosignature&token=tmxk
 HBO Family,https://ott.udptv.net/stream/iptv/hbofamily/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
@@ -692,6 +744,7 @@ NBC News NOW,https://jmp2.uk/sam-USBB2200014DK.m3u8
 NBC News NOW,https://jmp2.uk/sam-ESBC400003YM.m3u8
 NBC News NOW,https://jmp2.uk/sam-GBBB1500004LG.m3u8
 NBC News NOW,https://jmp2.uk/sam-ITBC4000028E.m3u8
+NHK WORLD-JAPAN,https://4g.vickdong.dpdns.org/?id=461
 National Geographic Wild,https://hilay.tv/l/natgeowild
 Discovery Channel,https://world-proxifier.xyz/daddylive/p/C46CGJR5GIYCEPDSBAWTQX24KZMBAGQ2CBQGIYY/index.m3u8
 Discovery Channel,https://ott.udptv.xyz/stream/astro/discoverychannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
