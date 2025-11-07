@@ -24,3 +24,4 @@ https://raw.githubusercontent.com/live-iptv/m3u_validator/refs/heads/main/xxx_m3
 https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/4gtv.m3u
 https://raw.githubusercontent.com/tumanggertv/tumanggertv/1485cefe65c28bee7cf8012be76bc34c357eedc3/XXX-1
 https://raw.githubusercontent.com/alenin-zhang/IPTV/33e27d193254a705e156e6bebdd506d7fd9e3ec3/av
+https://raw.githubusercontent.com/luoye20230624/ZB/0907543b350e119c6738b6edf0d6d64f77343143/x4.txt
