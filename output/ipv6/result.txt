@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-07 17:30:27,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-11-07 19:59:18,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -188,6 +188,7 @@ CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415
 CHC影迷电影,https://shyd.695847.xyz/cms001/ch00000090990000001581/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=2025110714003525eafcb15eea403b809e5923667f53ba&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20251107140035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=106.13.250.83&SecurityKey=20251107140035&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a9acfc45f305413275d5a5e8b8727daa&ddCalcu=aaa9eda07c22f07c84b58fe350a554d15372
 CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=20251107160030b69a3b3eae35436dacf826ba50662695&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20251107160030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=106.13.250.83&SecurityKey=20251107160030&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=9902cec1c34c73f7f42e56c128ccbca4&ddCalcu=49a9ec00b22cc0ce8c211cc3645ce7234ff7
+CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=20251107180031dae50f41cbf2443ca091b672a5cab1ed&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20251107180031&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=106.13.250.83&SecurityKey=20251107180031&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=ff80cfa9cc1d857ed691bc6131e552ae&ddCalcu=efafe2805025c0ef1a391c6cc1bd189567de
 
 📡卫视频道,#genre#
 浙江卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f
