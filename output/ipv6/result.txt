@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-08 19:30:10,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-11-09 07:39:08,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -191,6 +191,7 @@ CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415
 CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=20251107180031dae50f41cbf2443ca091b672a5cab1ed&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20251107180031&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=106.13.250.83&SecurityKey=20251107180031&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=ff80cfa9cc1d857ed691bc6131e552ae&ddCalcu=efafe2805025c0ef1a391c6cc1bd189567de
 CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=20251108060159daf2a4839ef2482383059f8d2847b1e1&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20251108060159&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=106.13.250.90&SecurityKey=20251108060159&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=38f2ba11c00df595c0c6a14528f1980d&ddCalcu=d308e8f09221b0fa81215c4010ad6fc509c5
 CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=20251108180035015de8f057d94af5b9f596ffb8935a01&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20251108180035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=106.13.250.89&SecurityKey=20251108180035&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=50227151a6d549ec92728be1a2bd4be5&ddCalcu=55e0eb20422d70b125a11ae6bd8524792e9c
+CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=20251109060035f276df200cfb4cdc8e809a3344162ae0&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20251109060035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=106.13.250.89&SecurityKey=20251109060035&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=09f0470798c5230edffa5b09c9e500a7&ddCalcu=70a9e0f0002540e790c79908bc55a2f3f0de
 
 📡卫视频道,#genre#
 浙江卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f
