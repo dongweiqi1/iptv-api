@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-12 07:40:10,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-11-12 11:32:19,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -546,6 +546,8 @@ Shades of Black,https://dbrb49pjoymg4.cloudfront.net/10001/9995106/hls/playlist.
 📡俄语频道,#genre#
 Babes,http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/37449/hls/pl.m3u8
 Babes,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/37449/hlsx/pl.m3u8
+Vivid Red HD,http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/91663/hls/pl.m3u8
+Vivid Red HD,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/91663/hlsx/pl.m3u8
 Eroxxx,http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/54982/hls/pl.m3u8
 Eroxxx,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/54982/hlsx/pl.m3u8
 

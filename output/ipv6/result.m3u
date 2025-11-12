@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/dongweiqi1/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-11-12 07:40:10
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-11-12 11:32:19
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1073,6 +1073,10 @@ https://dbrb49pjoymg4.cloudfront.net/10001/9995106/hls/playlist.m3u8?ads.xumo_ch
 http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/37449/hls/pl.m3u8
 #EXTINF:-1 tvg-name="Babes" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Babes.png" group-title="📡俄语频道",Babes
 http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/37449/hlsx/pl.m3u8
+#EXTINF:-1 tvg-name="Vivid Red HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Vivid Red HD.png" group-title="📡俄语频道",Vivid Red HD
+http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/91663/hls/pl.m3u8
+#EXTINF:-1 tvg-name="Vivid Red HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Vivid Red HD.png" group-title="📡俄语频道",Vivid Red HD
+http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/91663/hlsx/pl.m3u8
 #EXTINF:-1 tvg-name="Eroxxx" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Eroxxx.png" group-title="📡俄语频道",Eroxxx
 http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/54982/hls/pl.m3u8
 #EXTINF:-1 tvg-name="Eroxxx" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Eroxxx.png" group-title="📡俄语频道",Eroxxx
