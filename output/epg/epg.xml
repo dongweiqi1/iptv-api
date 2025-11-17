@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251117024806 +0800">
+<tv date="20251117094147 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -2812,7 +2812,7 @@
 		<title lang="zh">正午江苏</title>
 	</programme>
 	<programme channel="江苏卫视" start="20251117123400 +0800" stop="20251117142100 +0800">
-		<title lang="zh">非诚勿扰(重播)</title>
+		<title lang="zh">非诚勿扰</title>
 	</programme>
 	<programme channel="江苏卫视" start="20251117142100 +0800" stop="20251117162800 +0800">
 		<title lang="zh">新相亲大会</title>
@@ -2836,10 +2836,10 @@
 		<title lang="zh">转播中央台新闻联播</title>
 	</programme>
 	<programme channel="江苏卫视" start="20251117193200 +0800" stop="20251117202800 +0800">
-		<title lang="zh">幸福剧场:凤凰台上(4)</title>
+		<title lang="zh">幸福剧场:凤凰台上(2)</title>
 	</programme>
 	<programme channel="江苏卫视" start="20251117202800 +0800" stop="20251117211700 +0800">
-		<title lang="zh">幸福剧场:凤凰台上(5)</title>
+		<title lang="zh">幸福剧场:凤凰台上(3)</title>
 	</programme>
 	<programme channel="江苏卫视" start="20251117211700 +0800" stop="20251117220600 +0800">
 		<title lang="zh">一站到底</title>
