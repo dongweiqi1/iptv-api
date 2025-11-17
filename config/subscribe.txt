@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/newclews/iptvlist/refs/heads/main/iptv.m3u
 https://raw.githubusercontent.com/tangbojin/update_iptv/refs/heads/main/src/main/resources/my_tv.m3u
 https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/combined-playlist.m3u
 https://iptv-org.github.io/iptv/index.m3u
-https://raw.githubusercontent.com/hujingguang/ChinaIPTV/refs/heads/main/xxx.m3u8
+https://raw.githubusercontent.com/testnmb/pgfh/a095edf5a225fbf1abde43453e89a1a4cac4b085/zb/XXX.m3u
 https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/4gtv.m3u
 https://raw.githubusercontent.com/hst1189/iptv-m3u/refs/heads/main/m3u/7_YueChan_Live/Adult.m3u
 https://raw.githubusercontent.com/alenin-zhang/IPTV/33e27d193254a705e156e6bebdd506d7fd9e3ec3/av
@@ -17,3 +17,4 @@ https://raw.githubusercontent.com/sc936989/iptv/8215f9988a17ee48a67cdd2b4fd4c641
 https://raw.githubusercontent.com/tvokko/90/cf40e0660a9e04d2f34e2cc43e4ff5bb4f67a284/newx
 https://raw.githubusercontent.com/atsushi444/iptv/b43b9777baa999d280bd471734cd432287cd5364/0626.m3u
 https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/alist/MMHY.txt
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/refs/heads/main/xxx.m3u8
