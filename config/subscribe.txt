@@ -3,12 +3,8 @@
 
 https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/iptv.txt
 https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/combined-playlist.m3u
-https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u
-https://raw.githubusercontent.com/mymsnn/DailyIPTV/refs/heads/main/outputs/full_raw.m3u
-https://raw.githubusercontent.com/newclews/iptvlist/refs/heads/main/iptv.m3u
-https://raw.githubusercontent.com/tangbojin/update_iptv/refs/heads/main/src/main/resources/my_tv.m3u
-https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/combined-playlist.m3u
 https://iptv-org.github.io/iptv/index.m3u
+https://raw.githubusercontent.com/kaka111222333/kaka111222333.github.io/18b0b500c122df5eb9e378a091efa65bdfc5306c/0-123.txt
 https://raw.githubusercontent.com/testnmb/pgfh/a095edf5a225fbf1abde43453e89a1a4cac4b085/zb/XXX.m3u
 https://raw.githubusercontent.com/joii89/iptv-joii/cec23f0507d9e14ff24a18d1a92f211a506835fa/Movie/live.xxx.m3u8
 https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/4gtv.m3u
