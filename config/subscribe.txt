@@ -8,6 +8,7 @@ https://raw.githubusercontent.com/kaka111222333/kaka111222333.github.io/18b0b500
 https://raw.githubusercontent.com/testnmb/pgfh/a095edf5a225fbf1abde43453e89a1a4cac4b085/zb/XXX.m3u
 https://raw.githubusercontent.com/joii89/iptv-joii/cec23f0507d9e14ff24a18d1a92f211a506835fa/Movie/live.xxx.m3u8
 https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/4gtv.m3u
+https://raw.githubusercontent.com/80947108/888/fc1579a4009cb5cf59e65aa942274f8e41da9c8e/tv/FGlive.txt
 https://raw.githubusercontent.com/hst1189/iptv-m3u/refs/heads/main/m3u/7_YueChan_Live/Adult.m3u
 https://raw.githubusercontent.com/alenin-zhang/IPTV/33e27d193254a705e156e6bebdd506d7fd9e3ec3/av
 https://raw.githubusercontent.com/sc936989/iptv/8215f9988a17ee48a67cdd2b4fd4c641c41e859d/playlistx.m3u
@@ -16,3 +17,6 @@ https://raw.githubusercontent.com/tvokko/90/cf40e0660a9e04d2f34e2cc43e4ff5bb4f67
 https://raw.githubusercontent.com/atsushi444/iptv/b43b9777baa999d280bd471734cd432287cd5364/0626.m3u
 https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/alist/MMHY.txt
 https://raw.githubusercontent.com/hujingguang/ChinaIPTV/refs/heads/main/xxx.m3u8
+https://raw.githubusercontent.com/Z3n0v/move_link/d6b81bf0e3d335b3c93bb932501f68920638d887/VIP%20code%22
+https://raw.githubusercontent.com/joii89/iptv-joii/cec23f0507d9e14ff24a18d1a92f211a506835fa/Movie/live.xxx.m3u8
+https://raw.githubusercontent.com/spammnmail/iptv2/refs/heads/main/x.m3u
