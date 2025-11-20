@@ -1,3 +1,29 @@
+📺新闻频道,#genre#
+CCTV-4
+CCTV-13
+凤凰卫视
+凤凰资讯
+台湾|TVBS News 新闻台
+台湾|中天新闻 HD
+台湾|台视新闻台
+台湾|中视新闻台
+台湾|民视新闻台 FTV News
+台湾|东森新闻 ETTV News
+台湾|寰宇新闻台
+新闻频道|ABC News
+新闻频道|Al-Jazeera
+新闻频道|Bloomberg News
+新闻频道|BBC World News
+新闻频道|CBS HD
+新闻频道|CNN International
+新闻频道|CNN backup
+新闻频道|CNA
+新闻频道|CNBC
+新闻频道|CGTN
+新闻频道|Fox News
+新闻频道|NHK World
+新闻频道|France 24
+新闻频道|Skynews
 📺央视频道,#genre#
 CCTV-1
 CCTV-2
@@ -34,67 +60,75 @@ CHC影迷电影
 📡港澳台频道,#genre#
 凤凰卫视中文台
 凤凰卫视资讯台
+凤凰卫视
+凤凰资讯
 凤凰电影
-凤凰香港
+香港|翡翠台
+香港|iNews 新闻台
+香港|J 2
+香港|珍珠台
+香港|HOY资讯台
 TVBPLUS
 美亚C+
 美亚电影
 TVBS精采台
-TVBS新聞台
-TVB翡翠台
-民視新聞台
-中天新聞台
-中天综合
-中天娱乐
-东森新闻台
-东森综合台
-东森戏曲台
-东森电影台
-TVBS新闻台
-鏡電視新聞台
-非凡新闻
-History 歷史頻道
-Lifetime 娛樂頻道
-HITS頻道
-LUXE TV Channel
-ARIRANG阿里郎頻道
-AXN Taiwan
-HBO_HD
-HBO_HITS
-台視新聞台
-台视新闻
-寰宇新聞台
-靖天資訊台
-三立新聞iNEWS
-三立综合台
-好萊塢電影台
-時尚運動X
-中視
-中视新闻
-中视经典
-華視
-華視新聞
-民视新闻台
-DW德國之聲
-經典電影台
-滾動力rollor
-Love Nature
-靖天映畫
-影迷數位電影台
-History 歷史頻道
-Lifetime 娛樂頻道
-TVBS歡樂台
-半島國際新聞台
-MTV Live HD 音樂頻道
-MTV Live
-CINEMAX
-HBO Signature
-HBO Family
-HBO Hits
-Dreamworks
-Thrill
-Hits Movies
-Axn HD
+台湾|TVBS News 新闻台
+台湾|中天新闻 HD
+台湾|台视新闻台
+台湾|中视新闻台
+台湾|民视新闻台 FTV News
+台湾|东森新闻 ETTV News
+台湾|寰宇新闻台
+台湾|非凡新闻台
+台湾|年代新闻
+台湾|三立台湾 Sanli Taiwan
+台湾|TVBS HD
+台湾|中天娱乐 CTI Entertaiment
+台湾|中天综合 CTI Metro
+台湾|东森综合 ETTV Metro
+台湾|东森财经新闻 ETTV Business
+台湾|中视 HD
+台湾|华视 CTS HD
+台湾|八大娱乐 GTV Entertainment
+台湾|HBO_HD
+台湾|HBO_HITS
+电影频道|HBO Signature
+电影频道|HBO Family
+台湾|Hollywood Movies
+电影频道|Hollywood Movies
+台湾|CINEMAX
+台湾|AXN Taiwan
+台湾|东森电影 ETTV Movie
+台湾|MTV Live
+纪录频道|MTV Live
+台湾|卫视电影台
+台湾|美亚电影
+电影频道|星卫电影
+电影频道|SCM
+电影频道|Thrill
+电影频道|Hits Movie
+电影频道|东森洋片 ETTV Western
+电影频道|Animax
+电影频道|Movies Now HD
+电影频道|Star Movies HD
+电影频道|卫视中文台 Star Movies Chinese
+电影频道|One
+电影频道|Paramount Network
+电影频道|Rock Actions
+电影频道|Rock Entertainment
+电影频道|tvN Movie
+纪录频道|Natgeo_HD
+纪录频道|NatGeo_Wild HD
+纪录频道|Discovery Asia
+纪录频道|Discovery HD
+纪录频道|Fashion TV
+纪录频道|History
+纪录频道|BBC Earth HD
+纪录频道|BBC Earth Lifestyle
+纪录频道|亚洲旅游 TLC Asia
+纪录频道|HGTV
+电影频道|Axn HD
+台湾|亚洲美食
 法国时尚
 FashionTV Paris L'Original (1080p)
 Fashion TV Midnight Secret
