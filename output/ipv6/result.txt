@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-20 16:45:09,https://smart.dxjc.pp.ua/smt.php?id=cctv4
+2025-11-20 19:30:00,https://smart.dxjc.pp.ua/smt.php?id=cctv4
 
 📺新闻频道,#genre#
 CCTV-4,https://smart.dxjc.pp.ua/smt.php?id=cctv4
@@ -35,6 +35,8 @@ CCTV-13,http://live.iill.top/douyin/cctv.com
 新闻频道|NHK World,https://smart.dxjc.pp.ua/smt.php?id=nhkworld_japan
 新闻频道|France 24,https://smart.dxjc.pp.ua/smt.php?id=france24_twn
 新闻频道|Skynews,https://smart.dxjc.pp.ua/smt.php?id=skynews_twn
+
+📺4k频道,#genre#
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
